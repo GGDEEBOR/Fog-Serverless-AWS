@@ -143,3 +143,8 @@ Si el stack fue eliminado correctamente, debe aparecer un mensaje similar a:
 
     An error occurred (ValidationError):
     Stack with id sensor-detect does not exist
+
+
+## Documentación
+
+📄 [Informe Final](Fog_Serverless.pdf)
